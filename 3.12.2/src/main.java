@@ -9,9 +9,9 @@ public class main {
 		
 		c1.seConnecter(s);
 		c2.seConnecter(s);
-		//c3.seConnecter(s);
+		c3.seConnecter(s);
 		
-		c1.envoyerMessage("t'as de beaux yeux bleus tu sais ?");
+		c1.envoyerMessage("coucou les amis");
 		
 
 	}
